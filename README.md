@@ -50,9 +50,13 @@ Frontend (/client/.env):
 note: make sure to install nodemon globally
 
 ### 🎥 Demo
-Here's a demo how the AI is creating a coding environment where users can collaborate and contribute.
-![Demo GIF](https://github.com/user-attachments/assets/17cfd551-6612-4267-9bff-32927a5697cb)
+-Here's a demo of the login page, projects page and adding collaborators section.
+![github-md-1](https://github.com/user-attachments/assets/5768c5e1-5fd3-4bc4-9b6c-4649406cd6d2)
 
+-Here's a demo of how the AI is creating a coding environment for the project.
+![github-md-2 (1)](https://github.com/user-attachments/assets/1b868714-78e1-4d4a-bcce-32eaae1c3f67)
 
+-Screenshot of two users chat in a room 
+<img width="1920" height="995" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ef399e13-62f1-4767-8a60-ef3ebd16b421" />
 
 
